@@ -1,8 +1,9 @@
 ## Hi there 👋
 Welcome in my repository.. 
 
-�![CatOkGIF](https://github.com/user-attachments/assets/09cc1176-8f62-4808-aee1-c6e88e295fd1)
-�
+![YourewelcomeYoureWelcomeGIF](https://github.com/user-attachments/assets/7c58ab2c-62af-4426-8193-70b23e8c57b1)
+
+
 <!--
 **muksit1/muksit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
