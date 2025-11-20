@@ -3,7 +3,7 @@ Welcome in my repository..
 
 ![YourewelcomeYoureWelcomeGIF](https://github.com/user-attachments/assets/7c58ab2c-62af-4426-8193-70b23e8c57b1)
 
-also visit my [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1AZD94ko3d/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/muksit_arman_69?igsh=cWF6azNlbjhzOHg5) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@muksit_arman_69)
+also visit my [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1AZD94ko3d/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/muksit_arman_69?igsh=cWF6azNlbjhzOHg5) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@muksit_arman_69) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/muksit69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muksit-arman-ab3164287?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
 
