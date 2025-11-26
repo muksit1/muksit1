@@ -1,17 +1,14 @@
 #include <stdio.h>
-struct Complex{
-    float real, imag;
-};
-int main(){
-    struct Complex a, b, sum;
-    printf("Enter first complex number (real imag): ");
-    scanf("%f %f", &a.real, &a.imag);
-    printf("Enter second complex number (real imag): ");
-    scanf("%f %f", &b.real, &b.imag);
 
-    sum.real = a.real + b.real;
-    sum.imag = a.imag + b.imag;
+int main() {
+    int n, i, j;
+    scanf("%d", &n);
 
-    printf("Sum = %.2f + %.2fi\n", sum.real, sum.imag);
+    for(i = 2; i <= n; i++) {
+        for(j = 2; j < i; j++)
+            if(i % j == 0) break;
+
+        if(j == i) printf("%d ", i);
+    }
     return 0;
 }
